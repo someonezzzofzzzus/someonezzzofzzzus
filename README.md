@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Andrii Kuznietsov
 
 🎓 **Student at the University of York**  
-💻 **Software Engineer | Cybersecurity**
+💻 **Data Science | Cybersecurity**
 
 ---
 
 ### 🧰 Technical Skills
 - **Programming Languages:** C, Python, Java  
-- **Tools & Technologies:** API Development, Linux  
-- **Interests:** Secure software design, network security, and system optimization  
-
+- **Tools & Technologies:** API Development, Data Analyse Linux  
+- **Interests:** Data analyse algorithm & Optimisation
 ---
 
 ### 🚀 Goals
-- Expand my knowledge in **cybersecurity principles** and **secure software architecture**  
-- Contribute to **open-source projects** related to software security and development  
-- Gain professional experience in **software engineering** and **security-focused environments**
+- Expand my knowledge in **Data Science** and **Cybersecurity** fields  
+- Contribute to **open-source projects** related to software security and data science 
+
 
 ---
 
@@ -24,4 +23,4 @@
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” — Albert Einstein
+> “Money is not a success, it comes with the success”  
