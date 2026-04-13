@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Andrii Kuznietsov
+#  Andrii Kuznietsov 
+#     Portfolio 
 
 🎓 **Student at the University of York**  
 💻 **Data Science | Cybersecurity**
@@ -7,15 +8,14 @@
 
 ### 🧰 Technical Skills
 - **Programming Languages:** C, Python, Java  
-- **Tools & Technologies:** API Development, Data Analyse Linux  
-- **Interests:** Data analyse algorithm & Optimisation
+- **Tools & Technologies:** API Development, Data Analyse, Pipelines, Linux  
+- **Interests:** Data analysing algorithms & Optimisation
 ---
 
 ### 🚀 Goals
 - Expand my knowledge in **Data Science** and **Cybersecurity** fields  
-- Contribute to **open-source projects** related to software security and data science 
-
-
+- Contribute to **open-source projects** related to software security and data science
+- Develop defence algorithm with AI against AI
 ---
 
 ### 📫 Contact
