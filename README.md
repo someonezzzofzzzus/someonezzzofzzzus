@@ -2,7 +2,7 @@
 #     Portfolio 
 
 🎓 **Student at the University of York**  
-💻 **Data Science | Cybersecurity**
+💻 **Foundations -> Data Science -> Cybersecurity**
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Goals
-- Expand my knowledge in **Data Science** and **Cybersecurity** fields  
+- By focusing on **foundation CS knowledge** and currently focusing on **Data Science** field aim to enter **Cybersecurity** area 
 - Contribute to **open-source projects** related to software security and data science
 - Develop defence algorithm with AI against AI
 ---
