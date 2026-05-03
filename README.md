@@ -2,7 +2,8 @@
 #     Portfolio 
 
 🎓 **Student at the University of York**  
-💻 **Foundations -> Data Science -> Cybersecurity**
+                         (now)
+💻 ** CS Foundations -> Data Science -> Cybersecurity**
 
 ---
 
