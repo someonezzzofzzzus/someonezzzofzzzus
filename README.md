@@ -3,7 +3,7 @@
 
 🎓 **Student at the University of York**  
                          
-💻 ** CS Foundations -> Data Science(now) -> Cybersecurity**
+💻 ** CS Foundations -> Data Science (now) -> Cybersecurity**
 
 ---
 
