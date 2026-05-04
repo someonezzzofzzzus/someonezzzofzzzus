@@ -5,6 +5,8 @@
                          
 💻 ** CS Foundations -> Data Science (now) -> Cybersecurity**
 
+Status: Currently learning advance Data Science field in order to build up the knowledge of information flow, networks and how to manipulate it
+
 ---
 
 ### 🧰 Technical Skills
@@ -17,7 +19,7 @@
 - By focusing on **foundation CS knowledge** and currently focusing on **Data Science** field aim to enter **Cybersecurity** area
 - Combine programming skills with online trading in order to gain additional passive income
 - Contribute to **open-source projects** related to software security and data science
-- Develop defence algorithm with AI against AI
+- Develop defence algorithm against AI
 ---
 
 ### 📫 Contact
