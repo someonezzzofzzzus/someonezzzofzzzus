@@ -14,7 +14,8 @@
 ---
 
 ### 🚀 Goals
-- By focusing on **foundation CS knowledge** and currently focusing on **Data Science** field aim to enter **Cybersecurity** area 
+- By focusing on **foundation CS knowledge** and currently focusing on **Data Science** field aim to enter **Cybersecurity** area
+- Combine programming skills with online trading in order to gain additional passive income
 - Contribute to **open-source projects** related to software security and data science
 - Develop defence algorithm with AI against AI
 ---
