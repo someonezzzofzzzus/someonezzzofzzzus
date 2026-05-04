@@ -3,9 +3,9 @@
 
 🎓 **Student at the University of York**  
                          
-💻 ** CS Foundations -> Data Science (now) -> Cybersecurity**
+💻 ** CS Foundations -> **Data Science** (now) -> Cybersecurity**
 
-Status: Currently learning advance Data Science field in order to build up the knowledge of information flow, networks and how to manipulate it
+Status: Currently learning advance Data Science field in order to build up the knowledge of information flow, networks and how manipulate it
 
 ---
 
