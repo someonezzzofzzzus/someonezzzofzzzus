@@ -5,13 +5,13 @@
                          
 💻 ** CS Foundations -> **Data Science** (now) -> Cybersecurity**
 
-Status: Currently learning advance Data Science field in order to build up the knowledge of information flow, networks and how manipulate it
+Status: Currently learning advance Data Science field in order to build up the knowledge of information flow, networks and how manipulate & structure the data
 
 ---
 
 ### 🧰 Technical Skills
-- **Programming Languages:** C, Python, Java  
-- **Tools & Technologies:** API Development, Data Analyse, Pipelines, Linux  
+- **Programming Languages:** C, Python, Java, SQL 
+- **Tools & Technologies:** API Development, Data Analyse, Pipelines, Linux , SQLite
 - **Interests:** Data analysing algorithms & Optimisation
 ---
 
