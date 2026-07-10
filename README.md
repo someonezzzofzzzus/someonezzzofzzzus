@@ -23,7 +23,7 @@ Status: Currently learning advance Data Science field in order to build up the k
 ---
 
 ### 📫 Contact
-- ✉️ Email: *spendinginsocial@gmail.com*  
+- ✉️ Email: *kuznietsovandriy@gmail.com*  
 
 ---
 
