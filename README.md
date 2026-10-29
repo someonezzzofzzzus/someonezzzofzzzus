@@ -1,6 +1,6 @@
 #  Andrii Kuznietsov 
 
-🎓 **Computer Science with Cyber Security | 3rd year | University of York**  
+🎓 **Bsc Computer Science with Cyber Security | 3rd year | University of York**  
 
 
 
